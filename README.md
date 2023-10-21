@@ -9,7 +9,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,express,nodejs,figma,postgress,sequelize,mongodb,prisma,nginx,docker,postman,vite,webpack,workers,react,redux,tailwind,threejs,electron,blender,figma,vscode,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,express,nodejs,figma,postgress,sequelize,mongodb,prisma,nginx,docker,postman,vite,webpack,workers,react,redux,tailwind,threejs,electron,blender,figma,vscode" />
   </a>
 </p>
 
