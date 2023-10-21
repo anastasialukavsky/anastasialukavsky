@@ -10,7 +10,7 @@
 
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="[https://i.gifer.com/Ozf.gif](https://64.media.tumblr.com/61306c5c60b9fa224dad4a082cecfd32/tumblr_njya8x74P21txe8seo1_500.gifv)">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://64.media.tumblr.com/61306c5c60b9fa224dad4a082cecfd32/tumblr_njya8x74P21txe8seo1_500.gifv">
 </a>
 <div align="center">
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anastasialukavsky&theme=dark&hide_border=false" /> 
