@@ -4,7 +4,7 @@
 <div align="center">
 
 
-  <img src="https://i.gifer.com/Ozf.gif"/>
+<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/Ozf" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">através de GIFER</a></p>
  
 
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anastasialukavsky&theme=dark&hide_border=false" /> 
