@@ -10,7 +10,7 @@
 
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="[https://i.gifer.com/Ozf.gif](https://i.gifer.com/3WFM.gif)">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://i.gifer.com/Ozf.gif">
 </a>
 <div align="center">
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anastasialukavsky&theme=dark&hide_border=false" /> 
