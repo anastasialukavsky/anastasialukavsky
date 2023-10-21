@@ -3,8 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <div align="center">
 
-
-<div style="padding-top:100.000%;position:relative;"><img src="https://gifer.com/embed/Ozf" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></img></div><p><a href="https://gifer.com">através de GIFER</a></p>
+<img srcc="https://i.gifer.com/Ozf.gif" />
  
 
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anastasialukavsky&theme=dark&hide_border=false" /> 
