@@ -10,7 +10,7 @@
 
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media3.giphy.com/media/WqjVWjGNZx3KmjEAU5/giphy.gif?cid=ecf05e47u6wwpwz3uqbsivosl3idak53nsi0etj4hfu93yf1&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.tenor.com/D609Ay5PK5QAAAAj/skill-issue-coding.gif">
 </a>
 <div align="center">
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anastasialukavsky&theme=dark&hide_border=false" /> 
