@@ -1,13 +1,12 @@
-### <h1 align="center">Hello World!</h1>
+### <h1 align="center">Hello World 🌎</h1>
 
 <div id="about-me-section" align="center">
  
-### I am a full-stack developer based in Brooklyn, NY. I source great pleasure from tackling various challenging problems and enjoy diving into new technologies 
+### I am a full-stack developer based in Brooklyn, NY. I source great pleasure from tackling various challenging problems and enjoy diving into new technologies!
 </div>
-
 <ul id="currently-working-on">
  <li>
-   I'm currently working on building book club application using Open Library API in conjunction with testing fresh new Bun API and PrismaDB
+   I'm currently working on building a book club application using Open Library API in conjunction with testing fresh new Bun API and PrismaDB
  </li>
  <li>
    Always leveling up my front-end skills using React, as well as introducing myself to VUEjs
