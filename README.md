@@ -57,7 +57,7 @@
 </div>
 
 
-<img src="https://www.pexels.com/photo/bird-s-eye-view-of-city-during-dawn-4039921/" height="300" width="400" />
+<img src="https://images.pexels.com/photos/4039921/pexels-photo-4039921.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" height="300" width="400" />
 <!--<div align="center">
 
 <!--<a href="https://github.com/anastasialukavsky/">
