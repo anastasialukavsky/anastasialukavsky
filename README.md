@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hello World!
 
+<div id="about-me-section">I am a full-stack developer based in Brooklyn, NY. I source great pleasure form tackling various difficult problems and enjoy learning new technologies </div>
+
+<div id="currently-working-on">
+ - I'm currently working on building book club aplication while testing fresh new Bun Api and Prisma
+ - Always leveling up my front-end skills using React
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
