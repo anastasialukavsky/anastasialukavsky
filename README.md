@@ -17,9 +17,9 @@
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br> -->
 
 
- <img scr="https://64.media.tumblr.com/fecffac2843f4ff54091f583d05b8bd2/tumblr_n7f0bwBqa61shpedgo1_640.gifv"/>
+<!-- <img scr="https://64.media.tumblr.com/fecffac2843f4ff54091f583d05b8bd2/tumblr_n7f0bwBqa61shpedgo1_640.gifv"/>
 
-<img src="https://i.gifer.com/Ozf.gif" /><br><br>
+<!--<img src="https://i.gifer.com/Ozf.gif" /><br><br>
 
 
 
