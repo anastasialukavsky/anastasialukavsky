@@ -57,7 +57,7 @@
 </div>
 
 
-<img src="https://images.pexels.com/photos/4039921/pexels-photo-4039921.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" height="300" width="100vw" />
+<img src="https://images.pexels.com/photos/4039921/pexels-photo-4039921.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" height="300" width="100%" />
 <!--<div align="center">
 
 <!--<a href="https://github.com/anastasialukavsky/">
