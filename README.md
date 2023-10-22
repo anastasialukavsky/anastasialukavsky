@@ -1,6 +1,6 @@
-### Hello World!
+### <h1>Hello World!</h1>
 
-<div id="about-me-section">
+<div id="about-me-section" align="center">
  
 ### I am a full-stack developer based in Brooklyn, NY. I source great pleasure from tackling various challenging problems and enjoy diving into new technologies 
 </div>
