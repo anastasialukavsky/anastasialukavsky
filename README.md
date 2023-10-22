@@ -55,6 +55,9 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.anastasialukavsky@gmail.com)
   
 </div>
+
+
+<img src="https://www.pexels.com/photo/bird-s-eye-view-of-city-during-dawn-4039921/" />
 <!--<div align="center">
 
 <!--<a href="https://github.com/anastasialukavsky/">
