@@ -27,7 +27,7 @@
 <!--   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.tenor.com/D609Ay5PK5QAAAAj/skill-issue-coding.gif"> -->
 <!-- </a> -->
 <div align="center">
-### <h1 align="center">Hello World 🌎</h1>
+  <h3 align="center">My Stats: </h3>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anastasialukavsky&theme=dark&hide_border=false" /> 
 </div>
 
