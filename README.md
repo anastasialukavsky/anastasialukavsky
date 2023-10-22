@@ -46,14 +46,20 @@
   </a>
 </p>
 
-
+<h3 align="center">Connect with me:</h3>
 <div align="center">
 
-<a href="https://github.com/anastasialukavsky/">
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasialukavsky/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.anastasialukavsky@gmail.com)
+  
+</div>
+<!--<div align="center">
+
+<!--<a href="https://github.com/anastasialukavsky/">
 <!--  <img src=https://github-readme-stats.vercel.app/api/wakatime?username=anastasialukavsky/> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anastasialukavsky&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="anastasialukavsky"/> -->
 
-</a>
+<!--</a>
 </div>
 
 <!--
