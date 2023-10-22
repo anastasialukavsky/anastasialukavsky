@@ -2,7 +2,7 @@
 
 <div id="about-me-section" align="center">
  
-### I am a full-stack developer based in Brooklyn, NY. I source great pleasure from tackling various challenging problems and enjoy diving into new technologies!
+### <h3> I am a full-stack developer based in Brooklyn, NY. I source great pleasure from tackling various challenging problems and enjoy diving into new technologies! <h3>
 </div>
 <ul id="currently-working-on">
  <li>
@@ -27,6 +27,7 @@
 <!--   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.tenor.com/D609Ay5PK5QAAAAj/skill-issue-coding.gif"> -->
 <!-- </a> -->
 <div align="center">
+### <h1 align="center">Hello World 🌎</h1>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anastasialukavsky&theme=dark&hide_border=false" /> 
 </div>
 
