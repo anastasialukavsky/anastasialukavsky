@@ -3,8 +3,10 @@
 <!--<img src="https://images.pexels.com/photos/4039921/pexels-photo-4039921.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" height="300px" width="100%"     background-size="cover"
             background-position="center"/>-->
 
-<img src="https://images.pexels.com/photos/290595/pexels-photo-290595.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" height="300px"/>
-https://images.pexels.com/photos/290595/pexels-photo-290595.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+<div style="position: relative; padding-bottom: 56.25%;">
+  <img src="https://images.pexels.com/photos/4039921/pexels-photo-4039921.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Image" style="position: absolute; width: 100%; height: 100%;">
+</div>
+
  <h1 align="center">Hello World 🌎</h1>
 
 <div id="about-me-section" align="center">
