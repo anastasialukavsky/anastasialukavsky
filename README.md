@@ -11,7 +11,7 @@
 
 <div id="about-me-section" align="center">
  
-### <h3> I am a full-stack developer based in Brooklyn, NY. I source great pleasure from tackling various challenging problems and enjoy diving into new technologies! <h3>
+### <h3> I am a fullstack developer based in Brooklyn, NY. I source great pleasure from tackling various challenging problems and enjoy diving into new technologies! <h3>
 </div>
 <ul id="currently-working-on">
  <li>
@@ -19,6 +19,9 @@
  </li>
  <li>
    Always leveling up my front-end skills using React, as well as introducing myself to VUEjs
+ </li>
+ <li>
+   Occasional blendr enthusiast
  </li>
 </ul>
 
