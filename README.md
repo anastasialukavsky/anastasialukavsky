@@ -6,16 +6,16 @@
 
  <h1 align="center">Hello World 🌎</h1>
 
-<div id="about-me-section" align="center">
+
  
-### <h3> I am a fullstack developer based in Brooklyn, NY. I source great pleasure from tackling various challenging problems and enjoy diving into new technologies! <h3>
-</div>
+### <h3 align="center"> I am a fullstack developer based in Brooklyn, NY. I source great pleasure from tackling various challenging problems and enjoy diving into new technologies! <h3>
+
 <ul id="currently-working-on">
  <li>
    I'm currently working on building a book club application using Open Library API in conjunction with testing fresh new Bun API and PrismaDB
  </li>
  <li>
-   Always leveling up my front-end skills using React, as well as introducing myself to VUEjs
+   Always leveling up my front-end skills using React, as well as introducing myself to Vue.js
  </li>
  <li>
    Occasional Blendr enthusiast
@@ -32,20 +32,24 @@
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h3 style="display: inline-block">Technologies I Know</h3></summary>
-  </ul>
-</div>
+
+
+<div id="skills-section">
+ 
+  <h3 style="display: inline-block" align="center">Technologies I Know</h3>
+  
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,express,nodejs,figma,postgres,sequelize,mongodb,prisma,nginx,docker,postman,vite,webpack,workers,react,redux,tailwind,threejs,electron,blender,figma,vscode" />
   </a>
 </p>
+</div>
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
@@ -55,5 +59,3 @@
   
 </div>
 
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
