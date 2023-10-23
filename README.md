@@ -4,7 +4,7 @@
             background-position="center"/>-->
 
 <div>
-  <img src="https://github.com/anastasialukavsky/anastasialukavsky/blob/main/png.png" alt="Main Banner" >
+  <img src="https://github.com/anastasialukavsky/anastasialukavsky/blob/main/main_banner.png" alt="Main Banner" >
 </div>
 
  <h1 align="center">Hello World 🌎</h1>
@@ -25,19 +25,8 @@
  </li>
 </ul>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br> -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-
-<!-- <img scr="https://64.media.tumblr.com/fecffac2843f4ff54091f583d05b8bd2/tumblr_n7f0bwBqa61shpedgo1_640.gifv"/>
-
-<!--<img src="https://i.gifer.com/Ozf.gif" /><br><br>
-
-
-
-<!---<a target="_blank" align="center">
-<!--   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.tenor.com/D609Ay5PK5QAAAAj/skill-issue-coding.gif"> -->
-<!-- </a> -->
 <div align="center">
   <h3 align="center">My Stats: </h3>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anastasialukavsky&theme=dark&hide_border=false" /> 
@@ -45,7 +34,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 <div id="user-content-toc">
   <ul align="center">
     <summary><h3 style="display: inline-block">Technologies I Know</h3></summary>
@@ -59,11 +48,13 @@
 </p>
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasialukavsky/)
+![Static Badge](https://img.shields.io/badge/:badgeContent?logoColor=black&label=portfolio&link=https%3A%2F%2Fanastasialukavsky.com%2F)
+
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.anastasialukavsky@gmail.com)
   
 </div>
