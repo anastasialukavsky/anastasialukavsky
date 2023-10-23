@@ -4,7 +4,7 @@
             background-position="center"/>-->
 
 <div>
-  <img src="https://github.com/anastasialukavsky/anastasialukavsky/blob/main/banner.png" alt="Image" >
+  <img src="https://github.com/anastasialukavsky/anastasialukavsky/blob/main/main_banner.png" alt="Image" >
 </div>
 
  <h1 align="center">Hello World 🌎</h1>
@@ -21,7 +21,7 @@
    Always leveling up my front-end skills using React, as well as introducing myself to VUEjs
  </li>
  <li>
-   Occasional blendr enthusiast
+   Occasional Blendr enthusiast
  </li>
 </ul>
 
