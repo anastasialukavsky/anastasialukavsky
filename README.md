@@ -4,7 +4,7 @@
             background-position="center"/>-->
 
 <div>
-  <img src="https://github.com/anastasialukavsky/anastasialukavsky/blob/main/nyc_banner.webp" alt="Image" >
+  <img src="https://github.com/anastasialukavsky/anastasialukavsky/blob/main/banner.png" alt="Image" >
 </div>
 
  <h1 align="center">Hello World 🌎</h1>
