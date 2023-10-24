@@ -8,7 +8,7 @@
 
 
  
-### <h3 align="center"> I am a fullstack developer based in Brooklyn, NY. I source great pleasure from tackling various challenging problems and enjoy diving into new technologies! <h3>
+ <p align="center"> I am a fullstack developer based in Brooklyn, NY. I source great pleasure from tackling various challenging problems and enjoy diving into new technologies! <p>
 
 <ul id="currently-working-on">
  <li>
