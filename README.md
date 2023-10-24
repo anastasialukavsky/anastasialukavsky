@@ -1,7 +1,7 @@
 
 
 <div>
-  <img src="https://github.com/anastasialukavsky/anastasialukavsky/blob/main/test1-q30.webp" alt="Main Banner" >
+  <img src="https://github.com/anastasialukavsky/anastasialukavsky/blob/main/ll-q30.webp" alt="Main Banner" >
 </div>
 
  <h1 align="center">Hello World 🌎</h1>
