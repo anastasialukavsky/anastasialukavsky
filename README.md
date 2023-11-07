@@ -14,8 +14,11 @@
  <li>
    I'm currently working on building a book club application using Open Library API in conjunction with testing fresh new Bun API, Elysia and PrismaDB
  </li>
+  <li>
+    Practicing building efficient and scalable Node.js server-side applications using Nest.js (absolute game-changer 🙌)
+  </li>
  <li>
-   Always leveling up my front-end skills using React, as well as introducing myself to Vue.js
+   Always leveling up my front-end skills using React, as well as introducing myself to Next.js
  </li>
  <li>
    Occasional Blendr enthusiast
