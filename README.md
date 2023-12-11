@@ -12,7 +12,7 @@
 
 <ul id="currently-working-on">
  <li>
-   I'm currently working on building a book club application using Open Library API in conjunction with testing fresh new Bun API, Elysia and PrismaDB
+   I'm currently working on building a Project Management Application using NestJs, Prisma, and NextJs 14
  </li>
   <li>
     Practicing building efficient and scalable Node.js server-side applications using Nest.js (absolute game-changer 🙌)
