@@ -8,14 +8,11 @@
 
 
  
- <p align="center"> I am a fullstack developer based in Brooklyn, NY. I source great pleasure from tackling various challenging problems and enjoy diving into new technologies! <p>
+ <p align="center"> I am a fullstack engineer based in Brooklyn, NY. I source great pleasure from tackling various challenging problems and enjoy diving into new technologies! <p>
 
 <ul id="currently-working-on">
- <li>
-   I'm currently working on building a Project Management Application using NestJs, Prisma, and NextJs 14
- </li>
   <li>
-    Practicing building efficient and scalable Node.js server-side applications using Nest.js (absolute game-changer 🙌)
+   Currently learning Kotlin, GraphQL, JOOQ, Spring Boot
   </li>
  <li>
    Always leveling up my front-end skills using React, as well as introducing myself to Next.js
